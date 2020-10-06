@@ -1,6 +1,6 @@
 # 1. Unload the Millenium Falcon in ONE COMMAND!
 # Move the whole crew from the millenium_falcon directory into the death_star directory.
-mv star_wars/empire/millenium_falcon/* star_wars/empire/death_star/
+mv star_wars/empire/death_star/millenium_falcon/* star_wars/empire/death_star/
 # 2. darth_vader has defeated obi_wan! Delete poor obi_wan.
 rm obi_wan
 #rm star_wars/empire/death_star/obi_wan
