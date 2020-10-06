@@ -11,9 +11,9 @@ mkdir star_wars/rebellion/millenium_falcon
 touch star_wars/rebellion/millenium_falcon/han_solo
 touch star_wars/rebellion/millenium_falcon/chewy
 # 6. In THREE commands, move luke_skywalker, obi_wan, and princess_leia into the millenium_falcon, respectively.
-mv star_wars/rebellion/luke_skywalker star-wars/rebellion/millenium_falcon
-mv star_wars/rebellion/obi_wan star-wars/rebellion/millenium_falcon
-mv star_wars/rebellion/princess_leia star-wars/rebellion/millenium_falcon
+mv luke_skywalker star-wars/rebellion/millenium_falcon
+mv obi_wan star-wars/rebellion/millenium_falcon
+mv princess_leia star-wars/rebellion/millenium_falcon
 # 7. Move the millenium_falcon into the death_star.
 mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
 #mv millenium_faclon/rebellion death_star/ *see commands in #6*
