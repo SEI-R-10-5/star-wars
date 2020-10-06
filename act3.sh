@@ -5,7 +5,7 @@ mv star_wars/empire/death_star/millenium_falcon/* star_wars/empire/death_star
 rm star_wars/empire/death_star/obi_wan
 # 3.  Our heroes have disabled the tractor beam! In four commands, Move the whole crew back into the millenium_falcon!
 # Remember: darth_vader remains in the death_star and emperor_palpatine is still in the empire.
-mv star_wars/empire/death_star/hans_solo star_wars/empire/death_star/millenium_falcon
+mv star_wars/empire/death_star/han_solo star_wars/empire/death_star/millenium_falcon
 mv star_wars/empire/death_star/chewy star_wars/empire/death_star/millenium_falcon
 mv star_wars/empire/death_star/princess_leia star_wars/empire/death_star/millenium_falcon
 mv star_wars/empire/death_star/luke_skywalker star_wars/empire/death_star/millenium_falcon
