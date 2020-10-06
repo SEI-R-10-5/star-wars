@@ -1,6 +1,5 @@
 # 1. Inside the `star_wars/rebellion` directory, [IN ONE COMMAND!!] create a file called `princess_leia` with the text `Help me, Obi-Wan…You’re my only hope.`
 echo ``Help me, Obi-Wan…You’re my only hope.`` >> star_wars/rebellion/princess_leia
-# touch /star_wars/rebellion/princess_leia >> 'Help me, Obi-Wan...you're my only hope.'
 # 2. Create a file called obi_wan in star_wars/rebellion.
 touch star_wars/rebellion/obi_wan
 # 3. Create a file in star_wars/rebellion called luke_skywalker.
@@ -16,4 +15,3 @@ mv star_wars/rebellion/obi_wan star_wars/rebellion/millenium_falcon/
 mv star_wars/rebellion/princess_leia star_wars/rebellion/millenium_falcon/
 # 7. Move the millenium_falcon into the death_star.
 mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
-#mv millenium_falcon/rebellion death_star/ *see commands in #6*
