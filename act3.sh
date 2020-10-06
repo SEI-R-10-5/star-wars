@@ -9,7 +9,7 @@ rm star_wars/empire/death_star/obi_wan
 mv star_wars/empire/death_star/han_solo star_wars/empire/death_star/millenium_falcon/
 mv star_wars/empire/death_star/luke_skywalker star_wars/empire/death_star/millenium_falcon/
 mv star_wars/empire/death_star/princess_leia star_wars/empire/death_star/millenium_falcon/
-mv star_wars/empire/death_star/chewy star_wars/empire/death_star/millenium_falcon/
+mv star_wars/empire/chewy star_wars/empire/death_star/millenium_falcon/
 # 4. Move the millenium_falcon back into the rebellion directory.
 mv star_wars/empire/death_star/millenium_falcon star_wars/rebellion/
 # 5. darth_vader leaves the death_star to pursue Luke! Move him from the death_star into the empire directory!
