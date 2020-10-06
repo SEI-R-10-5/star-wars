@@ -7,10 +7,9 @@
 # 4. Create a *directory* in star_wars/rebellion called millenium_falcon.
 
 # 5. In two commands, inside the millenium_falcon, create two files: han_solo and chewy.
-javascript is fun
+
 # 6. In THREE commands, move luke_skywalker, obi_wan, and princess_leia into the millenium_falcon, respectively.
 
 
 
 # 7. Move the millenium_falcon into the death_star.
-hello world

@@ -10,5 +10,5 @@ mkdir star_wars
 # 5. Inside the empire directory, create a file called emperor_palpatine.
 
 # 6. Inside the empire directory, create a directory called death_star.
-hi
+
 # 7. Move darth_vader into the death_star.
