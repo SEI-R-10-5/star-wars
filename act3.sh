@@ -11,7 +11,7 @@ mv star_wars/empire/death_star/luke_skywalker star_wars/empire/death_star/millen
 mv star_wars/empire/death_star/princess_leia star_wars/empire/death_star/millenium_falcon/
 mv star_wars/empire/death_star/chewy star_wars/empire/death_star/millenium_falcon/
 # 4. Move the millenium_falcon back into the rebellion directory.
-mv star_wars/empire/millenium_falcon star_wars/rebellion/
+mv star_wars/empire/death_star/millenium_falcon star_wars/rebellion/
 # 5. darth_vader leaves the death_star to pursue Luke! Move him from the death_star into the empire directory!
 mv darth_vader/death_star empire/
 # 6. Thanks to his practice back home at Beggar’s Canyon, Luke blew up the death_star! Remove it from the galaxy!
