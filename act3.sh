@@ -1,6 +1,6 @@
 # 1. Unload the Millenium Falcon in ONE COMMAND!
 # Move the whole crew from the millenium_falcon directory into the death_star directory.
-
+mv ~/millenium_falcon/* ../
 # 2. darth_vader has defeated obi_wan! Delete poor obi_wan.
 
 # 3.  Our heroes have disabled the tractor beam! In four commands, Move the whole crew back into the millenium_falcon!
